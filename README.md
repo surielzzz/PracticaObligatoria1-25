@@ -56,8 +56,6 @@ En el repositorio de GitHub:
 # 0.2. Título
 Al abrir el programa verás la pantalla de bienvenida del Hotel de Martos.
 
-![[](https://drive.google.com/uc?export=view&id=1HEUgVIUvTYoqSkH9jJI5bEgCvj1y-bvM)
-
 ---
 
 # 0.3. Menú principal
@@ -106,8 +104,6 @@ Al finalizar aparecerá:
 
 “HABITACIÓN --- RESERVADA. Gracias por su reservación.”
 
-Luego deberás introducir el número 3 para volver al menú principal.
-
 ---
 
 # 3. Realizar checkout
@@ -129,8 +125,8 @@ Se solicitará el pago en efectivo. El sistema calculará el cambio automáticam
 ## 4.1. Registro
 Para entrar deberás introducir:
 
-Usuario: canela  
-Contraseña: 1961  
+Usuario: admin  
+Contraseña: 1234  
 
 Una vez dentro aparecerá el menú administrativo.
 
@@ -159,5 +155,5 @@ Para volver a utilizarlo, deberás ejecutar de nuevo el archivo .bat.
 ---
 
 ### Autor
-Zamira Suriel – 1° DAM  
+Zamira y Claudia – 1° DAM  
 Práctica Obligatoria 2.
