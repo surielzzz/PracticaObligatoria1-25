@@ -56,7 +56,7 @@ En el repositorio de GitHub:
 # 0.2. Título
 Al abrir el programa verás la pantalla de bienvenida del Hotel de Martos.
 
-*(Inserta tu imagen aquí usando Markdown si lo deseas)*
+![https://drive.google.com/file/d/1HEUgVIUvTYoqSkH9jJI5bEgCvj1y-bvM/view?usp=drive_link]()
 
 ---
 
